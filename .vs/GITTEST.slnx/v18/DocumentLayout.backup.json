@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{98855A7E-D5CC-9BD6-CD1E-6C874E3A35A7}|GITTEST\\GITTEST.csproj|d:\\vs projects\\gittest\\gittest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{98855A7E-D5CC-9BD6-CD1E-6C874E3A35A7}|GITTEST\\GITTEST.csproj|solutionrelative:gittest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98855A7E-D5CC-9BD6-CD1E-6C874E3A35A7}|GITTEST\\GITTEST.csproj|d:\\vs projects\\gittest\\gittest\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98855A7E-D5CC-9BD6-CD1E-6C874E3A35A7}|GITTEST\\GITTEST.csproj|solutionrelative:gittest\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,8 +21,17 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\VS PROJECTS\\GITTEST\\GITTEST\\Class1.cs",
+              "RelativeDocumentMoniker": "GITTEST\\Class1.cs",
+              "ToolTip": "D:\\VS PROJECTS\\GITTEST\\GITTEST\\Class1.cs",
+              "RelativeToolTip": "GITTEST\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-13T14:33:14.886Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

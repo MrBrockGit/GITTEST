@@ -4,7 +4,7 @@ using System.Text;
 
 namespace GITTEST
 {
-    internal class Class1273845748
+    internal class Class1Number1
     {
         // looooooooooool
     }
