@@ -27,15 +27,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "GITTEST",
+              "Title": "GITTEST.csproj",
               "DocumentMoniker": "D:\\VS PROJECTS\\GITTEST\\GITTEST\\GITTEST.csproj",
               "RelativeDocumentMoniker": "GITTEST\\GITTEST.csproj",
               "ToolTip": "D:\\VS PROJECTS\\GITTEST\\GITTEST\\GITTEST.csproj",
               "RelativeToolTip": "GITTEST\\GITTEST.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-11-13T23:58:47.9Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-13T23:58:47.9Z"
             },
             {
               "$type": "Document",
