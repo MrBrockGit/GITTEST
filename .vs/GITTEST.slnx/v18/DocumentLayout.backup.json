@@ -9,6 +9,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{98855A7E-D5CC-9BD6-CD1E-6C874E3A35A7}|GITTEST\\GITTEST.csproj|d:\\vs projects\\gittest\\gittest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{98855A7E-D5CC-9BD6-CD1E-6C874E3A35A7}|GITTEST\\GITTEST.csproj|solutionrelative:gittest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98855A7E-D5CC-9BD6-CD1E-6C874E3A35A7}|GITTEST\\GITTEST.csproj|d:\\vs projects\\gittest\\gittest\\gittest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{98855A7E-D5CC-9BD6-CD1E-6C874E3A35A7}|GITTEST\\GITTEST.csproj|solutionrelative:gittest\\gittest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,8 +25,17 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GITTEST",
+              "DocumentMoniker": "D:\\VS PROJECTS\\GITTEST\\GITTEST\\GITTEST.csproj",
+              "RelativeDocumentMoniker": "GITTEST\\GITTEST.csproj",
+              "ToolTip": "D:\\VS PROJECTS\\GITTEST\\GITTEST\\GITTEST.csproj",
+              "RelativeToolTip": "GITTEST\\GITTEST.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-13T23:58:47.9Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -32,9 +45,9 @@
               "RelativeDocumentMoniker": "GITTEST\\Class1.cs",
               "ToolTip": "D:\\VS PROJECTS\\GITTEST\\GITTEST\\Class1.cs",
               "RelativeToolTip": "GITTEST\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-13T19:53:15.776Z",
+              "WhenOpened": "2026-11-13T19:56:47.62Z",
               "EditorCaption": ""
             },
             {
@@ -45,11 +58,7 @@
               "RelativeDocumentMoniker": "GITTEST\\Program.cs",
               "ToolTip": "D:\\VS PROJECTS\\GITTEST\\GITTEST\\Program.cs",
               "RelativeToolTip": "GITTEST\\Program.cs",
-<<<<<<< HEAD
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
-=======
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAALAAAAAAAAAA==",
->>>>>>> fdb9ce0 (first in branch-1)
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-13T11:51:17.116Z",
               "EditorCaption": ""
